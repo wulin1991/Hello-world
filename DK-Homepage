@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>De Young Kids</title>
+		<link rel="stylesheet" href="freestyle.css">
+		<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+		<style>@import 'https://fonts.googleapis.com/css?family=Playfair+Display:700';
+</style>
+	</head>
+	<body>
+		<header>
+			<a href="#landding">
+				
+			</a>
+			<nav>
+				<ul>
+					<li><a href="#about">About</a></li>
+					<li><a href="">Features</a></li>
+					<li><a href="">Contact</a></li>
+				</ul>
+			</nav>
+		</header>
+		<div id="landding">
+			<div id="title">
+				<img src="images/logo.png" width="120px" id="logo">
+		    	<h1>De Young Kids</h1>
+				
+			</div>
+		</div>
+		<div class="content">
+			<div id="about">
+				<div class="text">
+				<h2>About</h2>
+				<p>The De Young Kids is an app facing to children who are visiting the De Young Museum of Art to provide an amusing visit experence.</p>
+				<h4>Problem</h4>
+				<p>I love traveling and when I visit another city I go to the local museums, I found the children in the museum is an interesting group to study more than art pieces. Parents would all like their children show a native talent in art. As you know children love science and history museum better than art museums. The fact is children need to encourage and help to appreciate art. So the problem is children feel bored and attention span when they’re viewing the actual art, and when they feel bored they might not behave well in the museum. </p>
+				<h4>Goal</h4>
+				<p>• To provide entertaining museum visit experience for children.</p>
+<p>• And parents can get hands-free on children.</p>
+				</div>
+
+				<img src="images/prototype_1.png" width="300px" id="protos">
+				
+			</div>
+			
+			
+		</div>
+		<footer>
+			
+		</footer>
+	</body>
+</html>
